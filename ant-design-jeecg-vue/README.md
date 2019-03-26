@@ -1,11 +1,11 @@
-Jeecg-Boot 快速开发平台(前后端分离版本)
+BDarno 管理平台(前后端分离版本)
 ===============
 
 当前最新版本： 1.0（发布日期：20190225）
 
 项目介绍：
 -----------------------------------
-Jeecg-boot 一个全新的版本，采用前后端分离方案，提供强大代码生成器的快速开发平台。
+bdarno-boot 一个全新的版本，采用前后端分离方案，提供强大代码生成器的快速开发平台。
 前端页面代码和后端功能代码一键生成，不需要写任何代码，保持jeecg一贯的强大！！
 
 
@@ -30,8 +30,8 @@ Jeecg-boot 一个全新的版本，采用前后端分离方案，提供强大代
 
 - 拉取项目代码
 ```bash
-git clone https://github.com/zhangdaiscott/jeecg-boot.git
-cd  jeecg-boot/ant-design-jeecg-vue
+git clone git@github.com:Bdarno/jeecgBoot.git
+cd  jeecgBoot/ant-design-jeecg-vue
 ```
 
 - 安装依赖

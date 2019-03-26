@@ -25,16 +25,16 @@ public class SampleTest {
 	@Test
 	public void testSelect() {
 		System.out.println(("----- selectAll method test ------"));
-		List<JeecgDemo> userList = jeecgDemoMapper.selectList(null);
+		/*List<JeecgDemo> userList = jeecgDemoMapper.selectList(null);
 		Assert.assertEquals(5, userList.size());
-		userList.forEach(System.out::println);
+		userList.forEach(System.out::println);*/
 	}
 
 	@Test
 	public void testXmlSql() {
-		System.out.println(("----- selectAll method test ------"));
+		/*System.out.println(("----- selectAll method test ------"));
 		List<JeecgDemo> userList = jeecgDemoMapper.getDemoByName("Sandy12");
-		userList.forEach(System.out::println);
+		userList.forEach(System.out::println);*/
 	}
 
 	/**
@@ -42,7 +42,7 @@ public class SampleTest {
 	 */
 	@Test
 	public void testTran() {
-		jeecgDemoService.testTran();
+//		jeecgDemoService.testTran();
 	}
 
 }

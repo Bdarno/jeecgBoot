@@ -1,9 +1,9 @@
 import { getAction,deleteAction,putAction,postAction} from '@/api/manage'
 
 //根路径
-const doMian = "/jeecg-boot/";
+const doMian = "/my_admin/";
 //图片预览请求地址
-const imgView = "http://127.0.0.1:8080/jeecg-boot/sys/common/view/";
+const imgView = "http://127.0.0.1:8070/my_admin/sys/common/view/";
 
 
 //角色管理

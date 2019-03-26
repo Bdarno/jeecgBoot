@@ -4,12 +4,12 @@
       <div class="top">
         <div class="header">
           <a href="/">
-            <img src="~@/assets/logo.svg" class="logo" alt="logo">
-            <span class="title">Jeecg Boot</span>
+            <img src="~@/assets/Cattle.svg" class="logo" alt="logo">
+            <span class="title">Bdarno Boot</span>
           </a>
         </div>
         <div class="desc">
-          Jeecg Boot 是中国最具影响力的 企业级 快速开发平台
+          BDarno  开发平台
         </div>
       </div>
 
@@ -22,7 +22,7 @@
           <a href="_self">条款</a>
         </div>
         <div class="copyright">
-          Copyright &copy; 2019 <a href="http://www.jeecg.org" target="_blank">JEECG开源社区</a> 出品
+          Copyright &copy; 2019 <a href="https://bdarno.github.io/" target="_blank">Bdarno</a> 出品
         </div>
       </div>
     </div>

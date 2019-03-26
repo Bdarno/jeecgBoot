@@ -1,7 +1,7 @@
 server:
-    port: 8080
+    port: 8070
     servlet:
-       context-path: /jeecg-boot
+       context-path: /my_admin
 spring:
   ## quartz定时任务,采用数据库方式
   quartz:
@@ -63,9 +63,9 @@ spring:
         connectionProperties: druid.stat.mergeSql\=true;druid.stat.slowSqlMillis\=5000
       datasource: 
           master: 
-            url: jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false
+            url: jdbc:mysql://192.168.23.129:3307/my_admin?characterEncoding=UTF-8&useUnicode=true&useSSL=false
             username: root
-            password: root
+            password: 123456
             driver-class-name: com.mysql.jdbc.Driver
           # 多数据源配置   
           #multi-datasource1: 
@@ -77,7 +77,7 @@ spring:
   redis:
      database: 0
      #host: 127.0.0.1
-     host: 192.168.1.199
+     host: 192.168.23.129
      lettuce:
        pool:
          max-active: 8   #最大连接数据库连接数,设 0 为没有限制

@@ -1,13 +1,13 @@
-Jeecg-Boot 快速开发平台(前后端分离版本)
+Bdarno-Boot 管理平台(前后端分离版本)
 ===============
 
 当前最新版本： 1.0（发布日期：20190304）
 
 项目介绍：
 -----------------------------------
-Jeecg-boot 是一款企业级快速开发平台!采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器，
-前端页面代码和后端代码一键生成，不需要写任何代码，保持jeecg一贯的强大，绝对是全栈开发者福音！！
-JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同时，提高开发效率，追求更高的能力，No代码概念，一系列智能化在线开发。
+Bdarno-boot 是一款企业级快速开发平台!采用前后端分离技术:SpringBoot，Mybatis-plus，Shiro，JWT，Vue & Ant Design。提供强大的代码生成器，
+前端页面代码和后端代码一键生成，不需要写任何代码，保持bdarno一贯的强大，绝对是全栈开发者福音！！
+Bdarno-Boot基于开源项目jeecg-boot。
 
 
 技术架构：
@@ -30,7 +30,7 @@ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同
 
 
 #### 前端
- 
+
 - [Vue 2.5.22](https://cn.vuejs.org/),[Vuex](https://vuex.vuejs.org/zh/),[Vue Router](https://router.vuejs.org/zh/)
 - [Axios](https://github.com/axios/axios)
 - [ant-design-vue](https://vuecomponent.github.io/ant-design-vue/docs/vue/introduce-cn/)
@@ -63,16 +63,7 @@ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同
 
 - 官方文档 ：  [http://jeecg-boot.mydoc.io](http://jeecg-boot.mydoc.io)
 
-- QQ交流群 ：  284271917
 
-- 视频教程 ：  https://pan.baidu.com/s/1Il0TS50I70vH1AG1y40wtw 提取码：hok5
- 
-- 学习思路 ：  [跟着我们零基础学习前后端分离开发](http://jeecg-boot.mydoc.io/?t=340820)
- 
-- 常见问题 ：  [http://www.jeecg.org/forum.php?mod=viewthread&tid=7816&page=1&extra=#pid21237](http://www.jeecg.org/forum.php?mod=viewthread&tid=7816&page=1&extra=#pid21237)
-
-- Angular版本 ：[如果你更熟悉Angular，请点击这里找到jeecg-boot的对应版本](https://gitee.com/dangzhenghui/jeecg-boot)
- 
 
 ### 功能模块
 ```
@@ -105,23 +96,25 @@ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同
    └─其他
    
 ```
-   
+
    
 
 系统效果
 ----
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25154007_icdX.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25153956_Q752.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201901/07154149_555Q.png "在这里输入图片标题")
+
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/OLtACuETOV6R.png?imageslim)
+
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/7JqMHpXavVfz.png?imageslim)
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/Hoa3JvJU78OW.png?imageslim)
 ![输入图片说明](https://static.oschina.net/uploads/img/201902/25154209_qlCg.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25154251_XoW9.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25154331_0ndT.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25154414_ckFS.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25155155_Hm6H.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25155213_T04n.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25155224_MRLU.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25155234_7zCP.png "在这里输入图片标题")
-![输入图片说明](https://static.oschina.net/uploads/img/201902/25155242_K7Sw.png "在这里输入图片标题")
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/mDvBQTVc8iio.png?imageslim)
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/CJ3cjXzW8Gjv.png?imageslim)
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/Cr9PVSsG1qo3.png?imageslim)
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/TeN1ucjg187o.png?imageslim)
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/gW0OY179Pjdw.png?imageslim)
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/Ub5ErJXxYUUd.png?imageslim)
+
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/Lpq6ATq7GDne.png?imageslim)
 
 
 
@@ -157,8 +150,8 @@ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同
 
 - 拉取项目代码
 ```bash
-git clone https://github.com/zhangdaiscott/jeecg-boot.git
-cd  jeecg-boot/ant-design-jeecg-vue
+git clone git@github.com:Bdarno/jeecgBoot.git
+cd  jeecgBoot/ant-design-jeecg-vue
 ```
 
 1. 安装node.js
@@ -234,4 +227,4 @@ yarn run lint
 
 如果觉得还不错，请作者喝杯咖啡吧 ☺
 
-![](https://static.oschina.net/uploads/img/201903/08155608_0EFX.png)
+![mark](http://pniy183ex.bkt.clouddn.com/blog/20190326/JLURu7US1xxC.png?imageslim)
